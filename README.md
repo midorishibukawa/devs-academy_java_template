@@ -12,7 +12,7 @@ Sinta-se livre para utilizar quaisquer partes do modelo como bem entender!
 
 # Como utilizar este modelo com repositórios pré-existentes
 
-É possível simplesmente copiar todos os arquivos `.java` para os diretórios de seus respectivos exercícios.
+É possível simplesmente copiar todos os arquivos `.java` para os diretórios de seus respectivos exercícios, mas fazê-lo implica em perder todos os commits de repositórios pré-existentes.
 
 Para migrar de múltiplos repositórios para um único repositório utilizando este modelo, siga as seguintes instruções:
 
