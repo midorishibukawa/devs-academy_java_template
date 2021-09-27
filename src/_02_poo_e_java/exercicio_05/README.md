@@ -7,9 +7,9 @@
 > Por outro lado, o departamento de contabilidade da concessionária quer ter um registro das vendas realizadas. 
 > 
 > Cada registro deve ter as seguintes informações:
->     * valorDaVenda 
->     * veiculoVendido 
->     * cliente 
+>   * valorDaVenda 
+>   * veiculoVendido 
+>   * cliente 
 > 
 > 1. Fazer um diagrama de classe representando o modelo que queremos implementar. 
 > 
